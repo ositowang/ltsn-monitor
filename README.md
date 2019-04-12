@@ -1,4 +1,5 @@
 # Ltsn-Monitor
+[![npm version](https://badge.fury.io/js/ltsn-monitor.svg)](https://badge.fury.io/js/ltsn-monitor)
 
 A simple tool to monitor the Node LTS releases. Node has too many releases, monitor them with a single line of command.
 
