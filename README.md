@@ -10,6 +10,7 @@ npm i ltsn-monitor
 ```
 
 ## Usage
+
 simply run the command `ltsn 10` in your command line. The tool will show you the latest Node LTS releases in a table view.
 
 ## License
