@@ -1,0 +1,15 @@
+{
+  "name": "ltsn-monitor",
+  "version": "1.0.0",
+  "description": "Commandline tools for checking Node LTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "LTS"
+  ],
+  "author": "ositowang",
+  "license": "MIT"
+}
